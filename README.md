@@ -1,9 +1,7 @@
-# sentiment-analysis-using-BERT
+# Emotion Analysis for SMILE Twitter dataset.
 
-Sentiment Analysis for SMILE Twitter dataset is performed.
-
-_Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.3187909.v2_
-
+Dataset is taken from the following resource:
+> _Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.3187909.v2_
 
 - Google colab was used with GPU (Tesla T4) provided by Google as the runtime machine.
 - The dataset is having following sentiment classes.
@@ -24,4 +22,3 @@ _Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jen
 |sad/angry | 2 |
 |sad/disgust/angry | 1 |
 
-- The multiclass sentiments and the nocode (which doesn't represent any sentiment) was removed in the preprocessing stage.
