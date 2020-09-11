@@ -24,4 +24,4 @@ Dataset is taken from the following resource:
 
 * Sentiment/Emotion analysis with machine learning models Logistic Regression and Naive Bayes.
 * Sentiment/Emotion analysis with BERT with classification head (BERTForSequenceClassification).
-* Samples containing multi-label class and non-relevant 
+* Samples containing multi-label class and nocode class were removed in preprocessing.
