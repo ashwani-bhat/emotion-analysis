@@ -4,7 +4,7 @@ Dataset is taken from the following resource:
 > _Wang, Bo; Tsakalidis, Adam; Liakata, Maria; Zubiaga, Arkaitz; Procter, Rob; Jensen, Eric (2016): SMILE Twitter Emotion dataset. figshare. Dataset. https://doi.org/10.6084/m9.figshare.3187909.v2_
 
 - Google colab was used with GPU (Tesla T4) provided by Google as the runtime machine.
-- The dataset is having following sentiment classes.
+- Dataset contains following sentiment classes.
 
 | Sentiment | Count |
 | --------- | ----- |
@@ -22,3 +22,5 @@ Dataset is taken from the following resource:
 |sad/angry | 2 |
 |sad/disgust/angry | 1 |
 
+* Sentiment/Emotion analysis with machine learning models Logistic Regression and Naive Bayes.
+* Sentiment/Emotion analysis with BERT with classification head (BERTForSequenceClassification).
